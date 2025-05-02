@@ -1,0 +1,3 @@
+pandas
+scikit-learn
+tkinter; sys_platform == 'win32'  # Only for Windows
